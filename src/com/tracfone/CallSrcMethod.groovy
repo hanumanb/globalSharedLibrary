@@ -11,7 +11,7 @@ def steps
   
   def callSecondMethod() {
    
-   echo "In MavenBuild method"
+   println "In MavenBuild method"
   }
   
   
