@@ -1,8 +1,8 @@
-#!/usr/bin/groovy
 package com.tracfone
+class TestMethod implements Serializable {
 
-def testMethod() {
-        echo " In test method"
-		     
-    
+  def testMedho() {
+   
+   echo " isndie test method"
+  }
 }
