@@ -4,8 +4,8 @@ class CallSrcMethod implements Serializable {
 def steps
   CallSrcMethod(steps) {this.steps = steps}
   
-  def callSrcMethod() {
+  def callSrcMethod(args) {
    
-   echo "Inside CallSrcMethod   SRC cacll"
+   echo "In MavenBuild method $args}"
   }
 }
