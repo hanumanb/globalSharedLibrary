@@ -5,7 +5,7 @@ def steps
   CallSrcMethod(steps) {this.steps = steps}
   
   def callSrcMethod(args) {
-   
+   println "calling second method"
   callSecondMethod()
   }
   
