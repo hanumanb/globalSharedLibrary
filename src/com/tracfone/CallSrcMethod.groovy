@@ -1,7 +1,7 @@
 package com.tracfone
 class CallSrcMethod implements Serializable {
 
-ef steps
+def steps
   CallSrcMethod(steps) {this.steps = steps}
   
   def callSrcMethod() {
