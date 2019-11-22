@@ -3,6 +3,6 @@ class TestMethod implements Serializable {
 
   def testMedho() {
    
-   echo "isndietest method"
+   echo "isndie   test method"
   }
 }
