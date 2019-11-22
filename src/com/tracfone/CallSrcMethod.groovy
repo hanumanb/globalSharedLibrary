@@ -6,6 +6,13 @@ def steps
   
   def callSrcMethod(args) {
    
+  callSecondMethod()
+  }
+  
+  def callSecondMethod() {
+   
    echo "In MavenBuild method $args}"
   }
+  
+  
 }
