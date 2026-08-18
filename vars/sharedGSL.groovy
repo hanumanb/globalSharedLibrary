@@ -2,8 +2,10 @@
  
 
 def call() {
+ node{
     sh """
 pwd 
 ls -lrt
     """
+ }
 }
